@@ -1,0 +1,14 @@
+{
+  "name": "TGUploaderPro",
+  "description": "Bot De Telegram : TGUploaderPro v7.0 Fixed , Descargador gratis de contenido desde internet a hacia moodles , nexcloud en cuba",
+  "repository": "https://github.com/ObisoftDev/tguploaderpro", 
+  "env": {
+    "bot_token": {
+      "description": "7998528734:AAGOii33MBTJ4mHEQJcqMkPQH_SUKKNKdF8"
+    },
+    "tl_admin_user": {
+      "description": "usuarios administradores del bot (separar con ; para varios usuarios)",
+      "value": "Walkercito"
+    }
+  }
+}

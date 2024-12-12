@@ -1,0 +1,2 @@
+Walkercito={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 0, 'zips': 100, 'uploadtype': 'calendar', 'proxy': '', 'tokenize': 0, 'rename': 0, 'urlshort': 0}
+Eduardo_1524={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://uvs.ucm.cmw.sld.cu/', 'moodle_repo_id': 4, 'moodle_user': 'eduardo2005', 'moodle_password': 'Marycary.1524', 'isadmin': 0, 'zips': 100, 'uploadtype': 'calendar', 'proxy': '', 'tokenize': 0, 'rename': 0, 'urlshort': 0}
